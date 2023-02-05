@@ -134,5 +134,9 @@
   {
     "name": "hacktoberfest-accepted",
     "color": "0f8b16"
+  },
+  {
+    "name": "testlabelforSSL",
+    "color": "0f8b16"
   }
 ]
